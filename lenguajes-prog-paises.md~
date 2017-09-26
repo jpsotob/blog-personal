@@ -60,8 +60,8 @@ ve en la figura.
 Estos resultados se pueden deber a dos posibles situaciones:
 
 
-1. **La emergencia de la Ciencia de Datos en los países
-   desarrollados**. Los lenguajes *Python* y *R* están claramente
+1. *La emergencia de la Ciencia de Datos en los países
+   desarrollados*. Los lenguajes *Python* y *R* están claramente
    asociados a países desarrollados (*Python* tiene el doble de
    entradas en los países desarrollados y *R* es visitado
    aproximadamente trés veces más que en los países en vías de
@@ -75,7 +75,7 @@ Estos resultados se pueden deber a dos posibles situaciones:
    desarrollo y los programadores suelen contar con mayor preparación
    y estudios de posgrado.
    
-2. **Los países en vías de desarrollo explotan la subcontratación**.El
+2. *Los paises en vías de desarrollo explotan el *outsourcing*.El
    desarrollo de aplicaciones para *Android* así como en *PHP* está
    asociado claramente con los países en vías de desarrollo, En
    particular *CodeIgnter*, un *framework* para *PHP* es la etiqueta
@@ -99,7 +99,7 @@ tecnologías en los países en vías de desarrollo, su crecimiento es
 similar al experimentado por los países desarrollados, como podemos
 ver en la siguiente figura.
 
-![Crecimiento de Python en los paises en vías de desarrollo](imagenes/non_high_income_graph_python.png)
+![Crecimiento de Python en los paises en vías de desarrollo](non_high_income_graph_python.png)
 
 
 De acuerdo a este estudio, puede intuirse que el desarrollo de
